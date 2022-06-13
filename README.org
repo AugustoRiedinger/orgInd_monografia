@@ -1,0 +1,8 @@
+#+TITLE: TRABAJO MONOGRÁFICO - ESTUDIO DEL TRABAJO
+#+AUTHOR: Augusto Riedinger
+
+* CONTENIDOS :toc:
+- [[#estudio-del-trabajo][ESTUDIO DEL TRABAJO]]
+
+* ESTUDIO DEL TRABAJO
+Estudio del traba
