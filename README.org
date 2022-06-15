@@ -1,8 +1,18 @@
 #+TITLE: TRABAJO MONOGRÁFICO - ESTUDIO DEL TRABAJO
 #+AUTHOR: Augusto Riedinger
+#+STARTUP: folded
 
 * CONTENIDOS :toc:
 - [[#estudio-del-trabajo][ESTUDIO DEL TRABAJO]]
+  - [[#frederic-taylor-1856-1915][FREDERIC TAYLOR 1856-1915]]
 
 * ESTUDIO DEL TRABAJO
-Estudio del traba
+La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
+
+Ésta disciplina es aplicable en diferentes campos, industrias, empresas instituciones sociales, etc.; y fue desarrollada ampliamente a lo largo de la historia. A continuación se estudiarán los diferentes puntos de vista de autores en función del contexto histórico al que pertenecían.
+
+** FREDERIC TAYLOR 1856-1915
+Considerado el padre de la dirección científica y de la ingeniería industrial, Taylor fie el primero en desarrollar una teoría integrada de los principios y metodologías de la administración. Sus principales contribuciones:
+ + Determinación científica de los estándares de trabajo - estudio de movimientos, tiempos de trabajo y estandarización de herramientas.
+ + Desarrollo de sistema basado en tareas.
+ + División del trabajo en elementos para determinar tiempos.
