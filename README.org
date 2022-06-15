@@ -14,6 +14,7 @@
   - [[#fatiga---stress-laboral][FATIGA - STRESS LABORAL]]
   - [[#egonomía][EGONOMÍA]]
   - [[#seguridad][SEGURIDAD]]
+  - [[#conclusion][CONCLUSION]]
 
 * ESTUDIO DEL TRABAJO
 La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
@@ -89,5 +90,6 @@ Lo más importante para la prevención de los accidentes de trabajo radica en la
  + Revisión técnica periódica.
  + Tratamiento médico.
  + Orientación psíquica.
-
-Para concluir, se puede asegurar que el estudio del trabajo es el análisis del trabajo para su mejor realización, ya sea en tiempos, productividad
+ +
+** CONCLUSION
+Para concluir, se puede asegurar que el estudio del trabajo es el análisis del trabajo para su mejor realización, ya sea en tiempos, productividad, calidad, etc. Mediante el uso de minuciosas observaciones de las actividades que se realizan dentro de una fábrica, taller o lugar que se utiliza para la producción de algún objeto, para poder encontrar posibles fallas o errores durante el proceso de fabricación, y posteriormente corregir esos errores y establecer un mejor método, económico y/o práctico
