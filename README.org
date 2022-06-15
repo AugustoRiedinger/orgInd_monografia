@@ -13,6 +13,7 @@
   - [[#mediciones][MEDICIONES]]
   - [[#fatiga---stress-laboral][FATIGA - STRESS LABORAL]]
   - [[#egonomía][EGONOMÍA]]
+  - [[#seguridad][SEGURIDAD]]
 
 * ESTUDIO DEL TRABAJO
 La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
@@ -75,3 +76,18 @@ Una de las consecuencias que pueden surgir por el ritmo diario de la empresa es 
  1. De los impulsos, la cual se hace presente en el trabajador en creciente desgaste de fuerza y falta de interés por la tarea, dolores corporales y sensaciones de agotamiento que producen una disminución de rendimientos.
 ** EGONOMÍA
 Para tratar de evitar una fatíga en los trabajadores se inició el estudio de la ergonomía: disciplina que se encarga del diseño de lugares de trabajo, herramientas y tareas, de modo que coincidan con las características psicológicas, anatómicas y las capacidades de los trabajadores que se verán involucrados. Se basa en la optimización de tres elementos del sistema (humano-máquina-ambiente), para lo cuál se elaboran métodos de la persona, de la técnica y de la optimización.
+** SEGURIDAD
+Es indispensable la importancia que tiene la relación entre el estudio del trabajo y la seguridad e higiene industrial, basada en la higiene del lugar de trabajo y la seguridad del trabajador.
+
+La seguridad industrial es la aplicación de técnicas para la reducción, control y eleminación de los accidentes y enfermedades de trabajo.
+
+Lo más importante para la prevención de los accidentes de trabajo radica en las acciones correctas que se emplean, con base en el análisis de las causas que condujeron a la producción de los percances. En orden de importancia, podemos mencionar los siguientes medios:
+
+ + Selección adecuada del personal.
+ + Educación sistemática.
+ + Recolocación del trabajador.
+ + Revisión técnica periódica.
+ + Tratamiento médico.
+ + Orientación psíquica.
+
+Para concluir, se puede asegurar que el estudio del trabajo es el análisis del trabajo para su mejor realización, ya sea en tiempos, productividad
