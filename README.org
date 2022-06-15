@@ -10,6 +10,7 @@
   - [[#concepto][CONCEPTO]]
   - [[#cronocinergología][CRONOCINERGOLOGÍA]]
   - [[#simbología][SIMBOLOGÍA]]
+  - [[#mediciones][MEDICIONES]]
 
 * ESTUDIO DEL TRABAJO
 La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
@@ -54,3 +55,11 @@ Con la división del trabajo en 17 movimientos fundamentales Therbligs, donde ca
 | Retraso evitable   | DEV     |           |                |
 | Planear            | PL      |           |                |
 | Descansar          | DES     |           |                |
+** MEDICIONES
+En la actividad de la empresa, el factor tiempo juega un papel preponderante. La determinación de tiempos de uan actividad a partir de un estudio de tiempos por cronometraje está situada dentro de las técnicas de capacitación de datos reales a partir de la medición de la tarea por medio de cronometrado de la misma. Ésta técnica nos permite disponer del tiempo de una operación con adecuado nivel de confianza y reducido márgen de error. Una vez cumplida la etapa de registrar los tiempos, estamos en condiciones de iniciar la etapa denominada *medios*, en la que podemos identificar las actividades de preparación y medición propiamente dicha. Ellas son:
+ 1. Sistema de cronometrado.
+ 1. Los tipos de cronómetros habituales.
+ 1. La extensión del estudio
+ 1. El concepto de valoración
+
+Se debe cronometrar el tiempo de proceso completo, desde que empieza hasta que termina. Este estudio lo llevaremos a cabo mediante hojas de tiempos, en donde ayuda a la compilación y el análisis de lso datos que se recojan. Una vez cronometrados todos los tiempos y recogidos en las hojas de tiempo, se pasa a calcular el tiempo estándar para cada uno de los procesos. Una vez calculado, se obtendrá un ritmo de trabajo, que podrá ser utilizado para establecer un tiempo mínimo exigible al trabajador.
