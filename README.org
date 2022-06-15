@@ -5,6 +5,7 @@
 * CONTENIDOS :toc:
 - [[#estudio-del-trabajo][ESTUDIO DEL TRABAJO]]
   - [[#frederic-taylor-1856-1915][FREDERIC TAYLOR 1856-1915]]
+  - [[#frank-y-lillian-gilbreth-1900s][FRANK Y LILLIAN GILBRETH (1900s)]]
 
 * ESTUDIO DEL TRABAJO
 La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
@@ -13,6 +14,11 @@ La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo
 
 ** FREDERIC TAYLOR 1856-1915
 Considerado el padre de la dirección científica y de la ingeniería industrial, Taylor fie el primero en desarrollar una teoría integrada de los principios y metodologías de la administración. Sus principales contribuciones:
- + Determinación científica de los estándares de trabajo - estudio de movimientos, tiempos de trabajo y estandarización de herramientas.
+ + Determinación científica de los estándares de trabajo - tiempos de trabajo y estandarización de herramientas.
  + Desarrollo de sistema basado en tareas.
- + División del trabajo en elementos para determinar tiempos.
+ + División del trabajo en elementos para determinar los tiempos de tareas.
+
+** FRANK Y LILLIAN GILBRETH (1900s)
+Desarrollo del estudio de los movimientos como una técnica de la ingeniería y la dirección. Frank Gilbreth continuó su estudio y análisis de movimientos en otros campos, y ambos fueron pioneros de los filmes del movimiento para el estudio de obreros y tareas. Frank desarrolló el estudio de micro-movimientos: descomposición del trabajo en elementos fundamentales llamados "Thebligs". Sus aportes han sido grandes en las áreas de estudio de concesiones por fatiga, organización del hogar y asuntos similares.
+ + Estudio de los movimientos de los trabajadores para eliminar innecesarios y lograr eficiencia máxima.
+ + Diseño de tecnología cinematográfica par el estudio de movimientos.
