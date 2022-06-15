@@ -7,6 +7,8 @@
   - [[#frederic-taylor-1856-1915][FREDERIC TAYLOR 1856-1915]]
   - [[#frank-y-lillian-gilbreth-1900s][FRANK Y LILLIAN GILBRETH (1900s)]]
 - [[#estudio-de-tiempos-y-movimientos][ESTUDIO DE TIEMPOS Y MOVIMIENTOS]]
+  - [[#concepto][CONCEPTO]]
+  - [[#cronocinergología][CRONOCINERGOLOGÍA]]
 
 * ESTUDIO DEL TRABAJO
 La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
@@ -25,6 +27,9 @@ Desarrollo del estudio de los movimientos como una técnica de la ingeniería y 
  + Diseño de tecnología cinematográfica par el estudio de movimientos.
 
 * ESTUDIO DE TIEMPOS Y MOVIMIENTOS
+** CONCEPTO
 El estudio de tiempos y movimientos es una herramienta para la medición del trabajo utilizada con éxito desde finales del siglo XIX que combina el estudio de tiempos realizado por Taylor junto con el trabajo de estudio de movimientos de Frank y Lillian Gilbreth. A través de los años dichos estudios han ayudado a solucionar multitud de problemas de producción y a reducir costos.
  + *Estudio de tiempos*: actividad que implica la técnica de establecer un estándar de tiempo permisible para realizar una tarea determinada, con base en la medición del contenido de trabajo del método preciso, con la debida consideración de la fatiga y las demoras personales; así como también los retrasos innevitables.
  + *Estudio de movimientos*: análisis cuidadoso de diversos movimietos que efectúa el cuerpo al ejecutar un trabajo.
+** CRONOCINERGOLOGÍA
+Los Gilbreth desarrollaron en 1913 el cronociclografo, un dispositivo para medir y capturar movimientos. Consistía en poner luces sobre las extremidades que se fueran a mover y tomar una fotografía de largo exposición. Ellos dividieron el trabajo en sus elementos más básicos, a los que llamaban Therbligs, y a los cuales estudiaban por sí mismos con fotos de este tipo. Las luces que se les había puesto a los empleados se prendían 20 veces por segundo y el obturador de la cámara se abría al inicio del ciclo de trabajo y no se cerraba hasta que este hubiera finalizado. Esto daba como resultado una imagen en la que se podía seguir el trayecto del trabajador a través de la línea de intermitencia lumínica que dejaban las luces. En consecuencia, con el cronociclografo, es posible calcular velocidad, aceleración y desaceleración, así como estudiar los movimientos del cuerpo.
