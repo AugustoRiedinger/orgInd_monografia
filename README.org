@@ -9,6 +9,7 @@
 - [[#estudio-de-tiempos-y-movimientos][ESTUDIO DE TIEMPOS Y MOVIMIENTOS]]
   - [[#concepto][CONCEPTO]]
   - [[#cronocinergología][CRONOCINERGOLOGÍA]]
+  - [[#simbología][SIMBOLOGÍA]]
 
 * ESTUDIO DEL TRABAJO
 La Organización Internacional del Trabajo (OIT) describe al estudio del trabajo como "/[...]el examen sistemático de los métodos para realizar las actividades con el fin de mejorar la utilización eficaz de los recursos y de establecer normas de rendimiento con respecto a las actividades que se están realizando/".
@@ -33,3 +34,23 @@ El estudio de tiempos y movimientos es una herramienta para la medición del tra
  + *Estudio de movimientos*: análisis cuidadoso de diversos movimietos que efectúa el cuerpo al ejecutar un trabajo.
 ** CRONOCINERGOLOGÍA
 Los Gilbreth desarrollaron en 1913 el cronociclografo, un dispositivo para medir y capturar movimientos. Consistía en poner luces sobre las extremidades que se fueran a mover y tomar una fotografía de largo exposición. Ellos dividieron el trabajo en sus elementos más básicos, a los que llamaban Therbligs, y a los cuales estudiaban por sí mismos con fotos de este tipo. Las luces que se les había puesto a los empleados se prendían 20 veces por segundo y el obturador de la cámara se abría al inicio del ciclo de trabajo y no se cerraba hasta que este hubiera finalizado. Esto daba como resultado una imagen en la que se podía seguir el trayecto del trabajador a través de la línea de intermitencia lumínica que dejaban las luces. En consecuencia, con el cronociclografo, es posible calcular velocidad, aceleración y desaceleración, así como estudiar los movimientos del cuerpo.
+** SIMBOLOGÍA
+Con la división del trabajo en 17 movimientos fundamentales Therbligs, donde cada uno identifica un símbolo, gráfico, color y letra o sigla:
+|--------------------+---------+-----------+----------------|
+| *SIGNIFICADO*      | *SIGLA* | *SÍMBOLO* | *COLOR*        |
+|--------------------+---------+-----------+----------------|
+| Buscar             | B       | $\theta$  | Negro          |
+| Seleccionar        | SE      | ->        | Gris claro     |
+| Tomar              | T       |           | Verde claro    |
+| Mover              | M       |           | Verde          |
+| Sostener           | SO      |           | Dorado         |
+| Soltar             | SL      |           | Carmin         |
+| Colocar            | P       |           | Azul           |
+| Precolocar         | PP      |           | Azul claro     |
+| Inspeccionar       | I       |           | Ocre           |
+| Ensamblar          | E       |           | Violeta oscuro |
+| Usar               | U       |           |                |
+| Retraso inivitable | DI      |           |                |
+| Retraso evitable   | DEV     |           |                |
+| Planear            | PL      |           |                |
+| Descansar          | DES     |           |                |
